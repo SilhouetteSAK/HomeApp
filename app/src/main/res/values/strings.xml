@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HomeApp</string>
+    <string name="cl">控制面板</string>
+    <string name="em">电量管理</string>
+    <string name="timer">定时器</string>
+    <string name="his">历史记录</string>
+    <string name="login">登录</string>
+    <string name="register">注册</string>
+    <string name="max">用电量最大：</string>
+    <string name="min">用电量最小：</string>
+    <string name="pic">用电情况曲线图</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+</resources>
